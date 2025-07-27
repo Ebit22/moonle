@@ -1,0 +1,1190 @@
+[
+  {
+	"Name": "Abel",
+	"Latitude": -34.5,
+	"Longitude": 87.3,
+	"Diameter": 122.0
+  },
+  {
+	"Name": "Aitken",
+	"Latitude": -16.8,
+	"Longitude": 173.4,
+	"Diameter": 135.0
+  },
+  {
+	"Name": "Albategnius",
+	"Latitude": -11.7,
+	"Longitude": 4.3,
+	"Diameter": 114.0
+  },
+  {
+	"Name": "Alden",
+	"Latitude": -23.6,
+	"Longitude": 110.8,
+	"Diameter": 104.0
+  },
+  {
+	"Name": "Alphonsus",
+	"Latitude": -13.7,
+	"Longitude": -3.2,
+	"Diameter": 108
+  },
+  {
+	"Name": "Amundsen",
+	"Latitude": -84.3,
+	"Longitude": 85.6,
+	"Diameter": 101
+  },
+  {
+	"Name": "Anderson",
+	"Latitude": 15.8,
+	"Longitude": 171.1,
+	"Diameter": 109
+  },
+  {
+	"Name": "Antoniadi",
+	"Latitude": -69.7,
+	"Longitude": -172,
+	"Diameter": 143
+  },
+  {
+	"Name": "Apollo",
+	"Latitude": -36.1,
+	"Longitude": -151.8,
+	"Diameter": 537
+  },
+  {
+	"Name": "Ashbrook",
+	"Latitude": -81.4,
+	"Longitude": -112.5,
+	"Diameter": 156
+  },
+  {
+	"Name": "Avogadro",
+	"Latitude": 63.1,
+	"Longitude": 164.9,
+	"Diameter": 139
+  },
+  {
+	"Name": "Babbage",
+	"Latitude": 59.7,
+	"Longitude": -57.1,
+	"Diameter": 143
+  },
+  {
+	"Name": "Bailly",
+	"Latitude": -66.5,
+	"Longitude": -69.1,
+	"Diameter": 287
+  },
+  {
+	"Name": "Balmer",
+	"Latitude": -20.3,
+	"Longitude": 69.8,
+	"Diameter": 138
+  },
+  {
+	"Name": "Barnard",
+	"Latitude": -29.5,
+	"Longitude": 85.6,
+	"Diameter": 105
+  },
+  {
+	"Name": "Bel'kovich",
+	"Latitude": 61.1,
+	"Longitude": 90.2,
+	"Diameter": 214
+  },
+  {
+	"Name": "Birkhoff",
+	"Latitude": 58.7,
+	"Longitude": -146.1,
+	"Diameter": 345
+  },
+  {
+	"Name": "Blackett",
+	"Latitude": -37.5,
+	"Longitude": -116.1,
+	"Diameter": 141
+  },
+  {
+	"Name": "Blancanus",
+	"Latitude": -63.8,
+	"Longitude": -21.4,
+	"Diameter": 117
+  },
+  {
+	"Name": "Bolyai",
+	"Latitude": -33.6,
+	"Longitude": 125.9,
+	"Diameter": 135
+  },
+  {
+	"Name": "Boussingault",
+	"Latitude": -70.2,
+	"Longitude": 54.6,
+	"Diameter": 142
+  },
+  {
+	"Name": "Brianchon",
+	"Latitude": 75,
+	"Longitude": -86.2,
+	"Diameter": 134
+  },
+  {
+	"Name": "Brouwer",
+	"Latitude": -36.2,
+	"Longitude": -126,
+	"Diameter": 158
+  },
+  {
+	"Name": "Buffon",
+	"Latitude": -40.4,
+	"Longitude": -133.4,
+	"Diameter": 106
+  },
+  {
+	"Name": "Campbell",
+	"Latitude": 45.3,
+	"Longitude": 151.4,
+	"Diameter": 219
+  },
+  {
+	"Name": "Carnot",
+	"Latitude": 52.3,
+	"Longitude": -143.5,
+	"Diameter": 126
+  },
+  {
+	"Name": "Carol",
+	"Latitude": 8.5,
+	"Longitude": 122.3,
+	"Diameter": 117
+  },
+  {
+	"Name": "Casatus",
+	"Latitude": -72.8,
+	"Longitude": -29.5,
+	"Diameter": 108
+  },
+  {
+	"Name": "Catharina",
+	"Latitude": -18.1,
+	"Longitude": 23.4,
+	"Diameter": 104
+  },
+  {
+	"Name": "Chaplygin",
+	"Latitude": -6.2,
+	"Longitude": 150.3,
+	"Diameter": 137
+  },
+  {
+	"Name": "Chebyshev",
+	"Latitude": -33.7,
+	"Longitude": -133.1,
+	"Diameter": 178
+  },
+  {
+	"Name": "Clavius",
+	"Latitude": -58.8,
+	"Longitude": -14.1,
+	"Diameter": 245
+  },
+  {
+	"Name": "Cleomedes",
+	"Latitude": 27.7,
+	"Longitude": 56,
+	"Diameter": 125
+  },
+  {
+	"Name": "Compton",
+	"Latitude": 55.3,
+	"Longitude": 103.8,
+	"Diameter": 182
+  },
+  {
+	"Name": "Copernicus",
+	"Latitude": 9.7,
+	"Longitude": -20.1,
+	"Diameter": 107
+  },
+  {
+	"Name": "Curie",
+	"Latitude": -22.9,
+	"Longitude": 91,
+	"Diameter": 151
+  },
+  {
+	"Name": "D'Alembert",
+	"Latitude": 50.8,
+	"Longitude": 163.9,
+	"Diameter": 248
+  },
+  {
+	"Name": "Darwin",
+	"Latitude": -20.2,
+	"Longitude": -69.5,
+	"Diameter": 120
+  },
+  {
+	"Name": "De La Rue",
+	"Latitude": 59.1,
+	"Longitude": 52.3,
+	"Diameter": 134
+  },
+  {
+	"Name": "Debye",
+	"Latitude": 49.6,
+	"Longitude": -176.2,
+	"Diameter": 142
+  },
+  {
+	"Name": "Demonax",
+	"Latitude": -77.9,
+	"Longitude": 60.8,
+	"Diameter": 128
+  },
+  {
+	"Name": "Deslandres",
+	"Latitude": -33.1,
+	"Longitude": -4.8,
+	"Diameter": 256
+  },
+  {
+	"Name": "Doppler",
+	"Latitude": -12.6,
+	"Longitude": -159.6,
+	"Diameter": 110
+  },
+  {
+	"Name": "Drygalski",
+	"Latitude": -79.3,
+	"Longitude": -84.9,
+	"Diameter": 149
+  },
+  {
+	"Name": "Eddington",
+	"Latitude": 21.3,
+	"Longitude": -72.2,
+	"Diameter": 118
+  },
+  {
+	"Name": "Einstein",
+	"Latitude": 16.3,
+	"Longitude": -88.7,
+	"Diameter": 198
+  },
+  {
+	"Name": "Emden",
+	"Latitude": 63.3,
+	"Longitude": -177.3,
+	"Diameter": 111
+  },
+  {
+	"Name": "Endymion",
+	"Latitude": 53.9,
+	"Longitude": 57,
+	"Diameter": 123
+  },
+  {
+	"Name": "Fabry",
+	"Latitude": 42.9,
+	"Longitude": 100.7,
+	"Diameter": 184
+  },
+  {
+	"Name": "Fermi",
+	"Latitude": -19.3,
+	"Longitude": 122.6,
+	"Diameter": 183
+  },
+  {
+	"Name": "Fersman",
+	"Latitude": 18.7,
+	"Longitude": -126,
+	"Diameter": 151
+  },
+  {
+	"Name": "Fitzgerald",
+	"Latitude": 27.5,
+	"Longitude": -171.7,
+	"Diameter": 110
+  },
+  {
+	"Name": "Fizeau",
+	"Latitude": -58.6,
+	"Longitude": -133.9,
+	"Diameter": 111
+  },
+  {
+	"Name": "Fleming",
+	"Latitude": 15,
+	"Longitude": 109.6,
+	"Diameter": 106
+  },
+  {
+	"Name": "Fowler",
+	"Latitude": 42.3,
+	"Longitude": -145,
+	"Diameter": 146
+  },
+  {
+	"Name": "Fra Mauro",
+	"Latitude": -6.1,
+	"Longitude": -17,
+	"Diameter": 101
+  },
+  {
+	"Name": "Fracastorius",
+	"Latitude": -21.5,
+	"Longitude": 33.2,
+	"Diameter": 112
+  },
+  {
+	"Name": "Fridman",
+	"Latitude": -12.6,
+	"Longitude": -126,
+	"Diameter": 102
+  },
+  {
+	"Name": "Furnerius",
+	"Latitude": -36,
+	"Longitude": 60.6,
+	"Diameter": 135
+  },
+  {
+	"Name": "Gagarin",
+	"Latitude": -20.2,
+	"Longitude": 149.2,
+	"Diameter": 265
+  },
+  {
+	"Name": "Galois",
+	"Latitude": -14.2,
+	"Longitude": -151.9,
+	"Diameter": 222
+  },
+  {
+	"Name": "Gamow",
+	"Latitude": 65.3,
+	"Longitude": 145.3,
+	"Diameter": 129
+  },
+  {
+	"Name": "Gärtner",
+	"Latitude": 59.1,
+	"Longitude": 34.6,
+	"Diameter": 115
+  },
+  {
+	"Name": "Gassendi",
+	"Latitude": -17.6,
+	"Longitude": -40.1,
+	"Diameter": 101
+  },
+  {
+	"Name": "Gauss",
+	"Latitude": 35.7,
+	"Longitude": 79,
+	"Diameter": 177
+  },
+  {
+	"Name": "Gilbert",
+	"Latitude": -3.2,
+	"Longitude": 76,
+	"Diameter": 112
+  },
+  {
+	"Name": "Goldschmidt",
+	"Latitude": 73.2,
+	"Longitude": -3.8,
+	"Diameter": 113
+  },
+  {
+	"Name": "H. G. Wells",
+	"Latitude": 40.7,
+	"Longitude": 122.8,
+	"Diameter": 114
+  },
+  {
+	"Name": "Harkhebi",
+	"Latitude": 39.6,
+	"Longitude": 98.3,
+	"Diameter": 237
+  },
+  {
+	"Name": "Hausen",
+	"Latitude": -65,
+	"Longitude": -88.1,
+	"Diameter": 167
+  },
+  {
+	"Name": "Heaviside",
+	"Latitude": -10.4,
+	"Longitude": 167.1,
+	"Diameter": 165
+  },
+  {
+	"Name": "Hecataeus",
+	"Latitude": -21.8,
+	"Longitude": 79.4,
+	"Diameter": 167
+  },
+  {
+	"Name": "Hedin",
+	"Latitude": 2,
+	"Longitude": -76.5,
+	"Diameter": 150
+  },
+  {
+	"Name": "Hermite",
+	"Latitude": 86,
+	"Longitude": -89.9,
+	"Diameter": 104
+  },
+  {
+	"Name": "Hertzsprung",
+	"Latitude": 2.6,
+	"Longitude": -129.2,
+	"Diameter": 591
+  },
+  {
+	"Name": "Hevelius",
+	"Latitude": 2.2,
+	"Longitude": -67.6,
+	"Diameter": 115
+  },
+  {
+	"Name": "Hilbert",
+	"Latitude": -17.9,
+	"Longitude": 108.2,
+	"Diameter": 151
+  },
+  {
+	"Name": "Hipparchus",
+	"Latitude": -5.1,
+	"Longitude": 5.2,
+	"Diameter": 138
+  },
+  {
+	"Name": "Hirayama",
+	"Latitude": -6.1,
+	"Longitude": 93.5,
+	"Diameter": 132
+  },
+  {
+	"Name": "Hommel",
+	"Latitude": -54.7,
+	"Longitude": 33.8,
+	"Diameter": 126
+  },
+  {
+	"Name": "Humboldt",
+	"Latitude": -27,
+	"Longitude": 80.9,
+	"Diameter": 189
+  },
+  {
+	"Name": "J. Herschel",
+	"Latitude": 62,
+	"Longitude": -42,
+	"Diameter": 165
+  },
+  {
+	"Name": "Janssen",
+	"Latitude": -45.4,
+	"Longitude": 40.3,
+	"Diameter": 199
+  },
+  {
+	"Name": "Joliot",
+	"Latitude": 25.8,
+	"Longitude": 93.1,
+	"Diameter": 164
+  },
+  {
+	"Name": "Jules Verne",
+	"Latitude": -35,
+	"Longitude": 147,
+	"Diameter": 143
+  },
+  {
+	"Name": "Kästner",
+	"Latitude": -6.8,
+	"Longitude": 78.5,
+	"Diameter": 108
+  },
+  {
+	"Name": "Keeler",
+	"Latitude": -10.2,
+	"Longitude": 161.9,
+	"Diameter": 160
+  },
+  {
+	"Name": "Klaproth",
+	"Latitude": -69.8,
+	"Longitude": -26,
+	"Diameter": 119
+  },
+  {
+	"Name": "Kondratyuk",
+	"Latitude": -14.9,
+	"Longitude": 115.5,
+	"Diameter": 108
+  },
+  {
+	"Name": "Korolev",
+	"Latitude": -4,
+	"Longitude": -157.4,
+	"Diameter": 437
+  },
+  {
+	"Name": "Kovalevskaya",
+	"Latitude": 30.8,
+	"Longitude": -129.6,
+	"Diameter": 115
+  },
+  {
+	"Name": "Kurchatov",
+	"Latitude": 38.3,
+	"Longitude": 142.1,
+	"Diameter": 106
+  },
+  {
+	"Name": "Lagrange",
+	"Latitude": -32.3,
+	"Longitude": -72.8,
+	"Diameter": 225
+  },
+  {
+	"Name": "Lamarck",
+	"Latitude": -22.9,
+	"Longitude": -69.8,
+	"Diameter": 100
+  },
+  {
+	"Name": "Lamb",
+	"Latitude": -42.9,
+	"Longitude": 100.1,
+	"Diameter": 106
+  },
+  {
+	"Name": "Lamont",
+	"Latitude": 4.4,
+	"Longitude": 23.7,
+	"Diameter": 106
+  },
+  {
+	"Name": "Landau",
+	"Latitude": 41.6,
+	"Longitude": -118.1,
+	"Diameter": 214
+  },
+  {
+	"Name": "Langrenus",
+	"Latitude": -8.9,
+	"Longitude": 61.1,
+	"Diameter": 127
+  },
+  {
+	"Name": "Le Gentil",
+	"Latitude": -74.6,
+	"Longitude": -75.7,
+	"Diameter": 128
+  },
+  {
+	"Name": "Lebedev",
+	"Latitude": -47.3,
+	"Longitude": 107.8,
+	"Diameter": 102
+  },
+  {
+	"Name": "Leeuwenhoek",
+	"Latitude": -29.3,
+	"Longitude": -178.7,
+	"Diameter": 125
+  },
+  {
+	"Name": "Leibnitz",
+	"Latitude": -38.3,
+	"Longitude": 179.2,
+	"Diameter": 245
+  },
+  {
+	"Name": "Letronne",
+	"Latitude": -10.8,
+	"Longitude": -42.5,
+	"Diameter": 116
+  },
+  {
+	"Name": "Levi-Civita",
+	"Latitude": -23.7,
+	"Longitude": 143.4,
+	"Diameter": 121
+  },
+  {
+	"Name": "Lippmann",
+	"Latitude": -56,
+	"Longitude": -114.9,
+	"Diameter": 160
+  },
+  {
+	"Name": "Longomontanus",
+	"Latitude": -49.6,
+	"Longitude": -21.8,
+	"Diameter": 157
+  },
+  {
+	"Name": "Lorentz",
+	"Latitude": 32.6,
+	"Longitude": -95.3,
+	"Diameter": 312
+  },
+  {
+	"Name": "Lundmark",
+	"Latitude": -39.7,
+	"Longitude": 152.5,
+	"Diameter": 106
+  },
+  {
+	"Name": "Lyot",
+	"Latitude": -49.8,
+	"Longitude": 84.5,
+	"Diameter": 132
+  },
+  {
+	"Name": "Mach",
+	"Latitude": 18.5,
+	"Longitude": -149.3,
+	"Diameter": 180
+  },
+  {
+	"Name": "Maginus",
+	"Latitude": -50.5,
+	"Longitude": -6.3,
+	"Diameter": 194
+  },
+  {
+	"Name": "Mandel'shtam",
+	"Latitude": 5.4,
+	"Longitude": 162.4,
+	"Diameter": 197
+  },
+  {
+	"Name": "Maurolycus",
+	"Latitude": -42,
+	"Longitude": 14,
+	"Diameter": 114
+  },
+  {
+	"Name": "Maxwell",
+	"Latitude": 30.2,
+	"Longitude": 98.9,
+	"Diameter": 107
+  },
+  {
+	"Name": "Mee",
+	"Latitude": -43.7,
+	"Longitude": -35.3,
+	"Diameter": 126
+  },
+  {
+	"Name": "Mendel",
+	"Latitude": -48.8,
+	"Longitude": -109.4,
+	"Diameter": 138
+  },
+  {
+	"Name": "Mendeleev",
+	"Latitude": 5.7,
+	"Longitude": 140.9,
+	"Diameter": 313
+  },
+  {
+	"Name": "Messala",
+	"Latitude": 39.2,
+	"Longitude": 60.5,
+	"Diameter": 125
+  },
+  {
+	"Name": "Meton",
+	"Latitude": 73.6,
+	"Longitude": 18.8,
+	"Diameter": 130
+  },
+  {
+	"Name": "Michelson",
+	"Latitude": 7.2,
+	"Longitude": -120.7,
+	"Diameter": 123
+  },
+  {
+	"Name": "Milankovic",
+	"Latitude": 77.2,
+	"Longitude": 168.8,
+	"Diameter": 101
+  },
+  {
+	"Name": "Milne",
+	"Latitude": -31.4,
+	"Longitude": 112.2,
+	"Diameter": 272
+  },
+  {
+	"Name": "Minkowski",
+	"Latitude": -56.5,
+	"Longitude": -146,
+	"Diameter": 113
+  },
+  {
+	"Name": "Minnaert",
+	"Latitude": -67.8,
+	"Longitude": 179.6,
+	"Diameter": 125
+  },
+  {
+	"Name": "Moretus",
+	"Latitude": -70.6,
+	"Longitude": -5.8,
+	"Diameter": 111
+  },
+  {
+	"Name": "Nansen",
+	"Latitude": 80.9,
+	"Longitude": 95.3,
+	"Diameter": 104
+  },
+  {
+	"Name": "Neper",
+	"Latitude": 8.5,
+	"Longitude": 84.6,
+	"Diameter": 137
+  },
+  {
+	"Name": "Nernst",
+	"Latitude": 35.3,
+	"Longitude": -94.8,
+	"Diameter": 116
+  },
+  {
+	"Name": "Neujmin",
+	"Latitude": -27,
+	"Longitude": 125,
+	"Diameter": 101
+  },
+  {
+	"Name": "Numerov",
+	"Latitude": -70.7,
+	"Longitude": -160.7,
+	"Diameter": 113
+  },
+  {
+	"Name": "Oppenheimer",
+	"Latitude": -35.2,
+	"Longitude": -166.3,
+	"Diameter": 208
+  },
+  {
+	"Name": "Orontius",
+	"Latitude": -40.6,
+	"Longitude": -4.6,
+	"Diameter": 105
+  },
+  {
+	"Name": "Ostwald",
+	"Latitude": 10.4,
+	"Longitude": 121.9,
+	"Diameter": 104
+  },
+  {
+	"Name": "Pascal",
+	"Latitude": 74.6,
+	"Longitude": -70.3,
+	"Diameter": 115
+  },
+  {
+	"Name": "Paschen",
+	"Latitude": -13.5,
+	"Longitude": -139.8,
+	"Diameter": 124
+  },
+  {
+	"Name": "Pasteur",
+	"Latitude": -11.9,
+	"Longitude": 104.6,
+	"Diameter": 224
+  },
+  {
+	"Name": "Pavlov",
+	"Latitude": -28.8,
+	"Longitude": 142.5,
+	"Diameter": 148
+  },
+  {
+	"Name": "Petavius",
+	"Latitude": -25.1,
+	"Longitude": 60.4,
+	"Diameter": 188
+  },
+  {
+	"Name": "Phillips",
+	"Latitude": -26.6,
+	"Longitude": 75.3,
+	"Diameter": 122
+  },
+  {
+	"Name": "Phocylides",
+	"Latitude": -52.7,
+	"Longitude": -57,
+	"Diameter": 121
+  },
+  {
+	"Name": "Piazzi",
+	"Latitude": -36.6,
+	"Longitude": -67.9,
+	"Diameter": 134
+  },
+  {
+	"Name": "Pitatus",
+	"Latitude": -29.9,
+	"Longitude": -13.5,
+	"Diameter": 106
+  },
+  {
+	"Name": "Planck",
+	"Latitude": -57.9,
+	"Longitude": 136.8,
+	"Diameter": 314
+  },
+  {
+	"Name": "Plaskett",
+	"Latitude": 82.1,
+	"Longitude": 174.3,
+	"Diameter": 109
+  },
+  {
+	"Name": "Plato",
+	"Latitude": 51.6,
+	"Longitude": -9.4,
+	"Diameter": 109
+  },
+  {
+	"Name": "Poincaré",
+	"Latitude": -56.7,
+	"Longitude": 163.6,
+	"Diameter": 319
+  },
+  {
+	"Name": "Poynting",
+	"Latitude": 18.1,
+	"Longitude": -133.4,
+	"Diameter": 128
+  },
+  {
+	"Name": "Ptolemaeus",
+	"Latitude": -9.3,
+	"Longitude": -1.9,
+	"Diameter": 164
+  },
+  {
+	"Name": "Purbach",
+	"Latitude": -25.5,
+	"Longitude": -2.3,
+	"Diameter": 115
+  },
+  {
+	"Name": "Pythagoras",
+	"Latitude": 63.5,
+	"Longitude": -63,
+	"Diameter": 142
+  },
+  {
+	"Name": "Rayleigh",
+	"Latitude": 29.3,
+	"Longitude": 89.6,
+	"Diameter": 114
+  },
+  {
+	"Name": "Regiomontanus",
+	"Latitude": -28.3,
+	"Longitude": -1,
+	"Diameter": 108
+  },
+  {
+	"Name": "Repsold",
+	"Latitude": 51.3,
+	"Longitude": -78.6,
+	"Diameter": 109
+  },
+  {
+	"Name": "Riccioli",
+	"Latitude": -3.3,
+	"Longitude": -74.6,
+	"Diameter": 139
+  },
+  {
+	"Name": "Richardson",
+	"Latitude": 31.1,
+	"Longitude": 100.5,
+	"Diameter": 141
+  },
+  {
+	"Name": "Riemann",
+	"Latitude": 38.9,
+	"Longitude": 86.8,
+	"Diameter": 163
+  },
+  {
+	"Name": "Roche",
+	"Latitude": -42.3,
+	"Longitude": 136.5,
+	"Diameter": 160
+  },
+  {
+	"Name": "Röntgen",
+	"Latitude": 33,
+	"Longitude": -91.4,
+	"Diameter": 126
+  },
+  {
+	"Name": "Rowland",
+	"Latitude": 57.4,
+	"Longitude": -162.5,
+	"Diameter": 171
+  },
+  {
+	"Name": "Rozhdestvenskiy",
+	"Latitude": 85.2,
+	"Longitude": -155.4,
+	"Diameter": 177
+  },
+  {
+	"Name": "Russell",
+	"Latitude": 26.5,
+	"Longitude": -75.4,
+	"Diameter": 103
+  },
+  {
+	"Name": "Scheiner",
+	"Latitude": -60.5,
+	"Longitude": -27.5,
+	"Diameter": 110
+  },
+  {
+	"Name": "Schickard",
+	"Latitude": -44.3,
+	"Longitude": -55.3,
+	"Diameter": 206
+  },
+  {
+	"Name": "Schiller",
+	"Latitude": -51.9,
+	"Longitude": -39,
+	"Diameter": 180
+  },
+  {
+	"Name": "Schrödinger",
+	"Latitude": -75,
+	"Longitude": 132.4,
+	"Diameter": 312
+  },
+  {
+	"Name": "Schuster",
+	"Latitude": 4.2,
+	"Longitude": 146.5,
+	"Diameter": 108
+  },
+  {
+	"Name": "Schwarzschild",
+	"Latitude": 70.1,
+	"Longitude": 121.2,
+	"Diameter": 212
+  },
+  {
+	"Name": "Scott",
+	"Latitude": -82.1,
+	"Longitude": 48.5,
+	"Diameter": 103
+  },
+  {
+	"Name": "Seares",
+	"Latitude": 73.5,
+	"Longitude": 145.8,
+	"Diameter": 110
+  },
+  {
+	"Name": "Seyfert",
+	"Latitude": 29.1,
+	"Longitude": 114.6,
+	"Diameter": 110
+  },
+  {
+	"Name": "Sklodowska",
+	"Latitude": -18.2,
+	"Longitude": 95.5,
+	"Diameter": 127
+  },
+  {
+	"Name": "Sommerfeld",
+	"Latitude": 65.2,
+	"Longitude": -162.4,
+	"Diameter": 169
+  },
+  {
+	"Name": "South",
+	"Latitude": 58,
+	"Longitude": -50.8,
+	"Diameter": 104
+  },
+  {
+	"Name": "Stebbins",
+	"Latitude": 64.8,
+	"Longitude": -141.8,
+	"Diameter": 131
+  },
+  {
+	"Name": "Stefan",
+	"Latitude": 46,
+	"Longitude": -108.3,
+	"Diameter": 125
+  },
+  {
+	"Name": "Sternfeld",
+	"Latitude": -19.6,
+	"Longitude": -141.2,
+	"Diameter": 100
+  },
+  {
+	"Name": "Stöfler",
+	"Latitude": -41.1,
+	"Longitude": 6,
+	"Diameter": 126
+  },
+  {
+	"Name": "Struve",
+	"Latitude": 22.4,
+	"Longitude": -77.1,
+	"Diameter": 164
+  },
+  {
+	"Name": "Szilard",
+	"Latitude": 34,
+	"Longitude": 105.7,
+	"Diameter": 122
+  },
+  {
+	"Name": "Theophilus",
+	"Latitude": -11.4,
+	"Longitude": 26.4,
+	"Diameter": 110
+  },
+  {
+	"Name": "Thomson",
+	"Latitude": -32.7,
+	"Longitude": 166.2,
+	"Diameter": 117
+  },
+  {
+	"Name": "Tsander",
+	"Latitude": 6.2,
+	"Longitude": -149.3,
+	"Diameter": 181
+  },
+  {
+	"Name": "Tsiolkovskiy",
+	"Latitude": -21.2,
+	"Longitude": 128.9,
+	"Diameter": 185
+  },
+  {
+	"Name": "Tycho",
+	"Latitude": -43.4,
+	"Longitude": -11.1,
+	"Diameter": 102
+  },
+  {
+	"Name": "Van de Graaff",
+	"Latitude": -27.4,
+	"Longitude": 172.2,
+	"Diameter": 233
+  },
+  {
+	"Name": "Van del Waals",
+	"Latitude": -43.9,
+	"Longitude": 119.9,
+	"Diameter": 104
+  },
+  {
+	"Name": "Vendelinus",
+	"Latitude": -16.4,
+	"Longitude": 61.6,
+	"Diameter": 131
+  },
+  {
+	"Name": "Vertregt",
+	"Latitude": -19.8,
+	"Longitude": 171.1,
+	"Diameter": 187
+  },
+  {
+	"Name": "Volta",
+	"Latitude": 53.9,
+	"Longitude": -84.4,
+	"Diameter": 123
+  },
+  {
+	"Name": "Von Kármán",
+	"Latitude": -44.8,
+	"Longitude": 175.9,
+	"Diameter": 180
+  },
+  {
+	"Name": "W. Bond",
+	"Latitude": 65.4,
+	"Longitude": -4.5,
+	"Diameter": 156
+  },
+  {
+	"Name": "Walter (Walther)",
+	"Latitude": -33.1,
+	"Longitude": 1,
+	"Diameter": 128
+  },
+  {
+	"Name": "Weyl",
+	"Latitude": 17.5,
+	"Longitude": -120.2,
+	"Diameter": 108
+  },
+  {
+	"Name": "Wiener",
+	"Latitude": 40.8,
+	"Longitude": 146.6,
+	"Diameter": 120
+  },
+  {
+	"Name": "Wilhelm",
+	"Latitude": -43.4,
+	"Longitude": -20.4,
+	"Diameter": 106
+  },
+  {
+	"Name": "Xenophanes",
+	"Latitude": 57.5,
+	"Longitude": -82,
+	"Diameter": 125
+  },
+  {
+	"Name": "Zeeman",
+	"Latitude": -75.2,
+	"Longitude": -133.6,
+	"Diameter": 190
+  },
+  {
+	"Name": "Zwicky",
+	"Latitude": -15.4,
+	"Longitude": 168.1,
+	"Diameter": 150
+  }
+]

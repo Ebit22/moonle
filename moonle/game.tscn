@@ -1,0 +1,71 @@
+[gd_scene load_steps=5 format=3 uid="uid://bw2aog3oui6r7"]
+
+[ext_resource type="PackedScene" uid="uid://c7ey6xd435ssl" path="res://Home.tscn" id="1_0h7n5"]
+[ext_resource type="Script" path="res://game.gd" id="1_0ju6n"]
+[ext_resource type="Script" path="res://camera_3d.gd" id="3_bwjb8"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_fal8w"]
+
+[node name="Node3D" type="Node3D"]
+script = ExtResource("1_0ju6n")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.866023, -0.433016, 0.250001, 0, 0.499998, 0.866027, -0.500003, 0.749999, -0.43301, 0, 0, 0)
+shadow_enabled = true
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Game" parent="CanvasLayer" instance=ExtResource("1_0h7n5")]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("BoxMesh_fal8w")
+script = ExtResource("3_bwjb8")
+
+[node name="pop-up" type="CanvasLayer" parent="."]
+
+[node name="Control" type="Control" parent="pop-up"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="pop-up/Control"]
+layout_mode = 0
+offset_left = 40.0
+offset_top = 303.0
+offset_right = 1040.0
+offset_bottom = 763.0
+color = Color(0.392157, 1, 0.392157, 0.654902)
+
+[node name="Label" type="Label" parent="pop-up/Control/ColorRect"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 150
+text = "You Won!!!"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Button" type="Button" parent="pop-up/Control/ColorRect"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 250.0
+offset_top = 320.0
+offset_right = -250.0
+offset_bottom = -5.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 70
+text = "Play again?"
+
+[connection signal="pressed" from="pop-up/Control/ColorRect/Button" to="CanvasLayer/Game" method="_on_again_pressed"]
